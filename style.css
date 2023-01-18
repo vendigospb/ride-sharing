@@ -6,7 +6,6 @@ body{
 .header{
     max-width: 100%;
     background: blue;
-    background-size: contain;
     height: 200px;
 }
 
